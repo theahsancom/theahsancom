@@ -36,9 +36,9 @@
 ## 📈 **GitHub Stats**
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=triquetradeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=triquetradeveloper&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=triquetradeveloper&theme=radical&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=alphatasker&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=alphatasker&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alphatasker&theme=radical&hide_border=false&layout=compact)  
 
 </div>
 
@@ -47,7 +47,7 @@
 ## 🏆 **GitHub Achievements**  
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=triquetradeveloper&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=alphatasker&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=7)
 
 </div>
 
@@ -56,7 +56,7 @@
 ## 🔝 **Top Contributed Repos**
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=triquetradeveloper&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=alphatasker&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -64,4 +64,3 @@
 
 ### 🐍 **Snake Eating Contributions**
 ![Snake animation](https://github.com/alphatasker/alphatasker/blob/output/github-snake-dark.svg)
-
