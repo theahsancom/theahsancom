@@ -1,7 +1,5 @@
 ### **🌟 Welcome to alphatasker's GitHub Profile!**  
-<div align="center">
-  <!-- GitHub Logo -->
-  
+
 <div align="center">
 
   ![channels4_profile-removebg-preview](https://github.com/user-attachments/assets/8fa18f2c-c23f-4f14-93ff-39f6b2cfce8b)
