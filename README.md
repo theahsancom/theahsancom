@@ -1,64 +1,42 @@
-### **🌟 Welcome to alphatasker's GitHub Profile!**  
+### **🌟 Welcome to alphatasker's GitHub Profile!**
 
 <div align="center">
-
-  ![channels4_profile-removebg-preview](https://github.com/user-attachments/assets/8fa18f2c-c23f-4f14-93ff-39f6b2cfce8b)
+  <!-- You can add an image or leave it as is -->
 </div>
 
+## About Me
 
+I’m a passionate Python developer and creative PowerShell coder who loves solving challenges with clean, efficient code. Here are 10 key points about me:
 
+- **Curiosity Driven:** Always eager to learn and master new technologies.
+- **Problem Solver:** Thrives on tackling complex coding challenges.
+- **Open Source Advocate:** Committed to contributing to the open source community.
+- **Automation Enthusiast:** Loves streamlining processes with PowerShell.
+- **Quality Focused:** Dedicated to writing clean and maintainable code.
+- **Collaborative Spirit:** Enjoys working in team environments.
+- **Innovative Thinker:** Constantly exploring creative solutions.
+- **Continuous Improver:** Believes in iterative development and self-improvement.
+- **Detail Oriented:** Pays close attention to code quality and functionality.
+- **Community Engaged:** Actively participates in developer communities and forums.
 
- 
-<div align="center">
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=700&lines=Python+Developer;HTML+Enthusiast;Backend+Wizard;Automation+Expert" alt="Typing Animation" />
-</div>
+## Tech Stacks
 
----
+- **Programming Languages:** Python, PowerShell
+- **Tools & Frameworks:** Git, Docker, VSCode (feel free to customize this list with your preferred technologies)
 
-## 🚀 **About Me**  
-<div align="center">
-  <p style="font-size:18px; font-family:'Fira Code', monospace; line-height:1.6; color:#cccccc;">
-    Hi, I'm <strong>alphatasker</strong> – a passionate developer who transforms ideas into <span style="color:#ff5555;">impactful digital experiences</span>. I specialize in building robust backend systems and crafting interactive front-end solutions using Python and HTML.
-  </p>
-  <blockquote style="border-left: 4px solid #ff5555; padding-left:16px; color:#aaaaaa; font-style:italic;">
-    "Transforming ideas into impactful digital experiences!"
-  </blockquote>
-</div>
+## GitHub Streak
 
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alphatasker&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## 🔥 **Tech Stack**  
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</div>
+## GitHub Achievements
 
----
-
-## 📈 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphatasker&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=alphatasker&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphatasker&theme=transparent&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 **GitHub Achievements**  
-<div align="center">
-  <!-- Upgraded Trophy Display with an alternative theme -->
-  <img src="https://github-profile-trophy.vercel.app/?username=alphatasker&theme=onedark&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Achievements" />
-</div>
-
----
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=alphatasker&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐍 **Snake Eating Contributions**
 <div align="center">
   <!-- Red Snake Animation -->
   ![Snake animation](https://github.com/alphatasker/alphatasker/blob/output/github-snake-dark.svg)
+</div>
+
+  ![channels4_profile-removebg-preview](https://github.com/user-attachments/assets/8fa18f2c-c23f-4f14-93ff-39f6b2cfce8b)
 </div>
