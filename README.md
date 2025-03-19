@@ -1,9 +1,9 @@
-<!-- Animated Typing Effect -->
+<!-- Main Animated Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Open-Source+Enthusiast;Tech+Innovator;Always+Learning;Code+Wizard;Problem+Solver&center=true&width=600&height=50&color=F76C6C&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Alphatasker's+Profile;Code+is+Life;Dream+Big;Innovate+Everyday;Embrace+Challenges;Stay+Awesome&center=true&width=800&height=60&color=00C3FF&vCenter=true&size=30" alt="Animated Intro" />
 </div>
 
-### **🌟 Welcome to Alphatasker's GitHub Profile!**  
+### **🌟 Welcome to Alphatasker's GitHub Profile!**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8fa18f2c-c23f-4f14-93ff-39f6b2cfce8b" alt="Profile Image" width="200"/>
@@ -12,25 +12,32 @@
 # 💫 About Me
 - 👋 Hi, I'm **Alphatasker**!
 - 🐍 Passionate Python developer with a knack for crafting elegant and efficient code.
-- 🚀 I love diving into new technologies, especially in Machine Learning and Cloud Computing.
-- 🎯 I thrive in collaborative environments and open source projects.
-- 🛠️ Currently exploring AI, automation, and DevOps practices.
-- 📫 Let's connect: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🎵 Fun Fact: When I'm not coding, I enjoy mixing music and exploring tech podcasts!
+- 🚀 I love diving into new technologies, especially in Machine Learning, AI, and Cloud Computing.
+- 🎨 A creative mind always looking for innovative solutions and cool projects.
+- 🛠️ Currently exploring automation, DevOps, and futuristic tech trends.
+
+<!-- Tech Stack Animated Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python;PowerShell;Git;Django;Flask;JavaScript;HTML5;CSS3&center=true&width=700&height=50&color=F76C6C&vCenter=true&size=22" alt="Tech Stack Animation" />
+</div>
 
 # 💻 Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
-
-
 # 🛠️ Projects & Contributions
-- 🔭 I’m currently working on **awesome Python libraries** and **automated solutions**.
-- 🌱 I’m learning **AI & Machine Learning**.
-- 💡 I regularly contribute to various **open source projects**.
-- 🔗 Check out some of my [projects](https://github.com/alphatasker?tab=repositories) for more details.
+- 🔭 Currently working on innovative Python libraries and automated solutions.
+- 🌱 Learning and exploring AI, Machine Learning, and Cloud Computing.
+- 💡 Contributing regularly to exciting open source projects.
+- 🔗 Discover more of my work on my [repositories](https://github.com/alphatasker?tab=repositories).
 
 # 📊 GitHub Stats
 <div align="center">
