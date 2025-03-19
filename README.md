@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/alphatasker/alphatasker/blob/output/github-snake.svg)
+![Snake animation]([https://github.com/alphatasker/alphatasker/blob/output/github-snake.svg](https://github.com/alphatasker/alphatasker/blob/output/github-snake-dark.svg))
