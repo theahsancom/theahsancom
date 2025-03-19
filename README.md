@@ -1,7 +1,7 @@
 ### **🌟 Welcome to alphatasker's GitHub Profile!**  
 <div align="center">
   <!-- GitHub Logo -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="60" />
+  <img src="https://yt3.googleusercontent.com/sPbeoJvdFbkK_qFUBx0FO11FsOyrZ4pQUiyYvq1F7PhlZ2rE4wWlGxCttnp1UKosqYdjyqXWYRY=s160-c-k-c0x00ffffff-no-rj" alt="GitHub Logo" width="60" />
 </div>
 
 <div align="center">
