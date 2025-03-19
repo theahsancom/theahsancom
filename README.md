@@ -1,3 +1,10 @@
+### **🌟 Welcome to alphatasker's GitHub Profile!**  
+
+<div align="center">
+
+  ![channels4_profile-removebg-preview](https://github.com/user-attachments/assets/8fa18f2c-c23f-4f14-93ff-39f6b2cfce8b)
+</div>
+
 # 💫 About Me:
 i am a python develepor
 
@@ -13,3 +20,9 @@ i am a python develepor
 [![](https://visitcount.itsvg.in/api?id=alphatasker&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 **Snake Eating Contributions**
+<div align="center">
+  <!-- Red Snake Animation -->
+  ![Snake animation](https://github.com/alphatasker/alphatasker/blob/output/github-snake-dark.svg)
+</div>
