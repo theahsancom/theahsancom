@@ -36,6 +36,15 @@ jobs:
       - name: Check Generated Files
         run: ls -l ./dist
 
+      # Debug step: Check if PAT_TOKEN is available (this step will not print the token value)
+      - name: Debug PAT_TOKEN availability
+        run: |
+          if [ -z "${{ secrets.PAT_TOKEN }}" ]; then
+            echo "PAT_TOKEN is not set."
+          else
+            echo "PAT_TOKEN is set."
+          fi
+
       # Step 3: Deploy the generated files to the 'output' branch using a PAT
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
