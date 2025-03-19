@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Logo (optional) -->
-  [<img src="[https://raw.githubusercontent.com/yourusername/yourrepo/master/logo.png"] alt="Logo" width="120">]
+  <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/master/logo.png"] alt="Logo" width="120">
 </p>
 
 <h1 align="center">Hi there, I'm <strong>alphatasker</strong> 👋</h1>
