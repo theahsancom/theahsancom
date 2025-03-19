@@ -9,10 +9,10 @@
 
 ## 🚀 **About Me**  
 🎯 **Python & HTML Developer** passionate about **building efficient, scalable, and user-friendly** applications.  
-⚡ Strong backend expertise with **Python**, combined with front-end magic using **HTML & CSS**.  
-📌 Dedicated to writing **clean, maintainable, and performance-optimized** code.  
-💡 Believer in **open-source collaboration, continuous learning, and problem-solving.**  
-🚀 Thrives in dynamic environments where challenges become opportunities.  
+⚡ Strong backend expertise with **Python**, combined with front-end skills in **HTML & CSS**.  
+📌 Committed to writing **clean, maintainable, and performance-optimized** code.  
+💡 Advocate for **open-source collaboration, continuous learning, and problem-solving**.  
+🚀 Thrive in dynamic environments where challenges are opportunities for growth.  
 
 > **"Transforming ideas into impactful digital experiences!"**
 
@@ -53,33 +53,9 @@
 
 ---
 
-## 🎶 **Currently Listening To**  
+## 🐍 **Snake Eating Contributions**
 <div align="center">
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default)
+![Snake animation](https://github.com/alphatasker/alphatasker/blob/output/github-snake-red.svg)
 
 </div>
-
----
-
-## 🧠 **Recent Blog Posts**
-<div align="left">
-
-- **[Understanding Python Decorators](https://yourblog.com/understanding-python-decorators)**  
-  A deep dive into Python decorators and their use cases.
-- **[Building Responsive Web Pages with HTML & CSS](https://yourblog.com/building-responsive-web-pages)**  
-  Tips and tricks for creating responsive web designs.
-- **[Automating Tasks with Python Scripts](https://yourblog.com/automating-tasks-with-python)**  
-  How to automate mundane tasks using Python.
-
-</div>
-
----
-
-## 🧩 **Fun Fact**
-Did you know? The term "debugging" originated from a literal bug causing issues in early computer systems. :contentReference[oaicite:0]{index=0}
-
----
-
-## 🐍 **Snake Eating Contributions**
-![Snake animation](https://github.com/alphatasker/alphatasker/blob/output/github-snake-dark.svg)
