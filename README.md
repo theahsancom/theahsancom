@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Logo (optional) -->
-  <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/master/logo.png"] alt="Logo" width="120">
+  ![image](https://github.com/user-attachments/assets/03d33db2-6c15-4fa7-8853-42ea2fb12da1)
 </p>
 
 <h1 align="center">Hi there, I'm <strong>alphatasker</strong> 👋</h1>
