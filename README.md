@@ -1,9 +1,11 @@
 ### **🌟 Welcome to alphatasker's GitHub Profile!**  
 <div align="center">
   <!-- GitHub Logo -->
-  <img src="https://yt3.googleusercontent.com/sPbeoJvdFbkK_qFUBx0FO11FsOyrZ4pQUiyYvq1F7PhlZ2rE4wWlGxCttnp1UKosqYdjyqXWYRY=s160-c-k-c0x00ffffff-no-rj" alt="GitHub Logo" width="200" />
+  
 </div>
 
+  ![channels4_profile-removebg-preview](https://github.com/user-attachments/assets/8fa18f2c-c23f-4f14-93ff-39f6b2cfce8b)
+ 
 <div align="center">
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=700&lines=Python+Developer;HTML+Enthusiast;Backend+Wizard;Automation+Expert" alt="Typing Animation" />
