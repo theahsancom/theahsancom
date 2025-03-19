@@ -57,5 +57,5 @@
 ## 🐍 **Snake Eating Contributions**
 <div align="center">
   <!-- Red Snake Animation -->
-  <img src="https://github.com/alphatasker/alphatasker/blob/output/github-snake-red.svg" alt="Snake Animation" />
+  ![Snake animation](https://github.com/alphatasker/alphatasker/blob/output/github-snake-dark.svg)
 </div>
