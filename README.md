@@ -36,9 +36,9 @@
 ## 📈 **GitHub Stats**
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=alphatasker&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=alphatasker&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alphatasker&theme=radical&hide_border=false&layout=compact)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphatasker&show_icons=true&theme=transparent)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=alphatasker&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphatasker&theme=transparent&layout=compact)
 
 </div>
 
@@ -53,14 +53,33 @@
 
 ---
 
-## 🔝 **Top Contributed Repos**
+## 🎶 **Currently Listening To**  
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=alphatasker&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default)
 
 </div>
 
 ---
 
-### 🐍 **Snake Eating Contributions**
+## 🧠 **Recent Blog Posts**
+<div align="left">
+
+- **[Understanding Python Decorators](https://yourblog.com/understanding-python-decorators)**  
+  A deep dive into Python decorators and their use cases.
+- **[Building Responsive Web Pages with HTML & CSS](https://yourblog.com/building-responsive-web-pages)**  
+  Tips and tricks for creating responsive web designs.
+- **[Automating Tasks with Python Scripts](https://yourblog.com/automating-tasks-with-python)**  
+  How to automate mundane tasks using Python.
+
+</div>
+
+---
+
+## 🧩 **Fun Fact**
+Did you know? The term "debugging" originated from a literal bug causing issues in early computer systems. :contentReference[oaicite:0]{index=0}
+
+---
+
+## 🐍 **Snake Eating Contributions**
 ![Snake animation](https://github.com/alphatasker/alphatasker/blob/output/github-snake-dark.svg)
