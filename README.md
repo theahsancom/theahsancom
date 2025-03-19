@@ -23,6 +23,6 @@ i am a python develepor
 
 ## 🐍 **Snake Eating Contributions**
 <div align="center">
-  <!-- Red Snake Animation -->
+
   ![Snake animation](https://github.com/alphatasker/alphatasker/blob/output/github-snake-dark.svg)
 </div>
