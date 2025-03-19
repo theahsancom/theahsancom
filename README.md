@@ -2,10 +2,10 @@
 
 <p align="center">
   <!-- Logo (optional) -->
-  <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/master/logo.png"] alt="Logo" width="120">
+  [<img src="[https://raw.githubusercontent.com/yourusername/yourrepo/master/logo.png"] alt="Logo" width="120">]
 </p>
 
-<h1 align="center">Hi there, I'm <strong>[Your Name]</strong> 👋</h1>
+<h1 align="center">Hi there, I'm <strong>alphatasker</strong> 👋</h1>
 <p align="center">
   <em>A passionate <strong>Python, JavaScript, Git, and PowerShell Developer</strong> turning ideas into code.</em>
 </p>
