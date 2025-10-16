@@ -2,7 +2,7 @@
 ### **🌟 Welcome to Alphatasker's GitHub Profile!**
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8fa18f2c-c23f-4f14-93ff-39f6b2cfce8b" alt="Profile Image" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/198923449?s=400&u=9bf34e20a5ecdc37d37cca776d94d8d4bef5fd4b&v=4" alt="Profile Image" width="200"/>
 </div>
 
 <!-- Main Animated Intro -->
