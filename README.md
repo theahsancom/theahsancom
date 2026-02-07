@@ -1,6 +1,6 @@
 <!-- Main Animated Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Alphatasker's+Profile;Code+is+Life;Dream+Big;Innovate+Everyday;Embrace+Challenges;Stay+Awesome&center=true&width=800&height=60&color=00C3FF&vCenter=true&size=30" alt="Animated Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ahsan's+Profile;Code+is+Life;Dream+Big;Innovate+Everyday;Embrace+Challenges;Stay+Awesome&center=true&width=800&height=60&color=00C3FF&vCenter=true&size=30" alt="Animated Intro" />
 </div>
 
 ### 💫 About Me
