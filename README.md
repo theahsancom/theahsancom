@@ -4,7 +4,7 @@
 </div>
 
 ### 💫 About Me
-- 👋 Hi, I'm **Ahsan**! <br>
+👋 Hi, I'm **Ahsan**! <br>
 A passionate Web, Python, and Discord Developer with over 6+ years of experience crafting efficient, reliable, and scalable solutions. I specialize in building custom Discord servers, web applications, and Python automation tools that solve real-world problems and elevate digital experiences. With a strong commitment to clean code, thoughtful design, and community-centric development, I’ve successfully completed 900+ projects that span from interactive community hubs to secure and advanced bot-powered ecosystems.
 
 
